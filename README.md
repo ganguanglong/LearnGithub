@@ -84,3 +84,6 @@ Graphs➡️Network
   - 关闭某次事务<br />
   1. 方法一、直接在网页端关闭
   2. 方法二、提交版本时，添加fix标识符，例如：add desc fix #2
+## Github Pages 搭建网站
+* Github Pages是可以绑定自己的域名的
+* 新建分支(gh-pages)
