@@ -88,3 +88,8 @@ Graphs➡️Network
 * Github Pages是可以绑定自己的域名的
 * 在项目文件夹新建index.html,提交版本并同步
 * 域名为(https://username.github.io/repositoryname)
+## Github的秘密机关
+- 隐藏快捷键
+  - 查找功能：在仓库页面敲：t
+  - Follow大神：通过Star数和更新频繁度找到大神
+
