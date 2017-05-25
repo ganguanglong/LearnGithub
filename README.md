@@ -89,8 +89,10 @@ Graphs➡️Network
 * 在项目文件夹新建index.html,提交版本并同步
 * 在settings里设置Github pages所依赖的分支，点击save
 * 域名为(https://username.github.io/repositoryname)
+* 另外还可以通过模版搭建个人博客
 ## Github的秘密机关
 - 隐藏快捷键
   - 查找功能：在仓库页面敲：t
   - Follow大神：通过Star数和更新频繁度找到大神
+
 
