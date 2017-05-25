@@ -87,6 +87,7 @@ Graphs➡️Network
 ## Github Pages 搭建网站
 * Github Pages是可以绑定自己的域名的
 * 在项目文件夹新建index.html,提交版本并同步
+* 在settings里设置Github pages所依赖的分支，点击save
 * 域名为(https://username.github.io/repositoryname)
 ## Github的秘密机关
 - 隐藏快捷键
