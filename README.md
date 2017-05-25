@@ -87,3 +87,6 @@ Graphs➡️Network
 ## Github Pages 搭建网站
 * Github Pages是可以绑定自己的域名的
 * 新建分支(gh-pages)
+* 切换到该分支并删除所有文件，提交版本
+* 在原来的文件夹新建index.html,提交版本并同步
+* 域名为(username.github.io/repositoryname)
