@@ -10,10 +10,9 @@ body{
 }
 h1,h2{
 	color:#fff;
+	border-bottom: 1px solid #ddd;
+	box-shadow: 0 0 4px #eee;
 }
-
-
-
 a{
 	color: #ccc;
 	text-decoration:none;
