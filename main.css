@@ -1,6 +1,24 @@
 body{
-	padding: 0;
-	margin: 0 auto;
-	background: gray;
-	color: orange;
+	padding: 30px 0;
+	text-align: center;
+	font-size: 16px;
+	background-color:#333
+}
+*{
+	padding :0;
+	margin: 0;
+}
+h1,h2{
+	color:#fff;
+}
+
+
+
+a{
+	color: #ccc;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+	color:#fff;
 }
