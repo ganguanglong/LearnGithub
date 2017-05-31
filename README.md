@@ -88,7 +88,7 @@ Graphs➡️Network
 * Github Pages是可以绑定自己的域名的
 * 在项目文件夹新建index.html,提交版本并同步
 * 在settings里设置Github pages所依赖的分支，点击save
-* 域名格式为(https://username.github.io/repositoryname)，[我的主页](https://ganguanglong.github.io/LearnGithub/)
+* 域名格式为(https://username.github.io/repositoryname)<br />[我的主页](https://ganguanglong.github.io/LearnGithub/)
 * 另外还可以通过模版搭建个人博客
 ## Github的秘密机关
 - 隐藏快捷键
